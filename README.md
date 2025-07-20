@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Dipak-kr
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...HTML,CSS,PHP and Python
+- 🌱 I’m currently learning ...MERN Stack
 - 💞️ I’m looking to collaborate on ...Github
 - 📫 How to reach me ...Facebook/Dipak Shah
 - 😄 Pronouns: ...Dipak Shah
-- ⚡ Fun fact: ...Don't know anything
+- ⚡ Fun fact: ...Don't know anyOne
 
 <!---
 Dipak-kr/Dipak-kr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
